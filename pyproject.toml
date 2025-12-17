@@ -1,0 +1,16 @@
+[project]
+name = "llm-sdg-disagreement"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jupyter-black>=0.4.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.16.3",
+    "statsmodels>=0.14.6",
+]
